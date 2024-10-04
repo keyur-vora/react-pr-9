@@ -1,0 +1,9 @@
+header{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #0a58ca;
+    padding: 10px 10px;
+    align-items: center;
+    color: white;
+}
